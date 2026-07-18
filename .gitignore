@@ -1,0 +1,52 @@
+## Core latex/pdflatex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+#aaaaa
+
+## Intermediate documents:
+*.dvi
+*.xdv
+*-converted-to.*
+*.DS_Store
+## Bibliography auxiliary files (BibTeX/BibLaTeX):
+*.bbl
+*.blg
+*.brf
+*.bcf
+*.run.xml
+
+## Glossary/Index auxiliary files:
+*.glo
+*.glg
+*.gls
+*.ilg
+*.ind
+*.ist
+*.acn
+*.acr
+*.alg
+
+## Build tool caches & logs (e.g., latexmk):
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.synctex(busy)
+*.pdfsync
+*.bbl-SAVE-ERROR
+
+## Editor/IDE specific files (e.g., TeXstudio, Overleaf):
+*.bak
+*.sav
+*.tex~
+*.listing
+

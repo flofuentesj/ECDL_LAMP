@@ -1,0 +1,6 @@
+*.pbxproj binary
+*.png binary
+*.pdf binary
+*.ipynb binary
+*.csv binary
+*.svg binary
